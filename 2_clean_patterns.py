@@ -74,3 +74,5 @@ def formatStrings():
     print(f'my name is {name}')
 
 formatStrings()
+
+import this
